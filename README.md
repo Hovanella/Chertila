@@ -1,2 +1,7 @@
 # Chertila
-This repository not for code, but for real chertila's (25 var , Chertila - Isachenkov)
+This repository not for code, but for real chertila's 
+
+А теперь на великом и могучем.
+Здесь чертежи за 2021 год,3 семестр,ПОИТ,сдано Исаченкову.
+В каждом чертеже могут быть мелкие и возможно грубые ошибки,но всё поправимо.
+Может быть,кого-нибудь спасу от бессмысленной траты чего-либо.
